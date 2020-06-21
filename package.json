@@ -14,7 +14,6 @@
     "chalk": "^4.1.0",
     "commander": "^5.1.0",
     "fs-extra": "^9.0.1",
-    "hubspot-api": "https://github.com/kieranja/hs-node-api.git",
     "prettier": "^2.0.5"
   }
 }
