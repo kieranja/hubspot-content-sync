@@ -17,10 +17,12 @@ const DEST_PORTAL_HAPIKEY = '';
 
 ### cowboy:
 ```
-sync --all
+node index.js sync --all
 ```
 ### sane:
-sync --ids=123,124,125
+```
+node index.js sync --ids=123,124,125
+```
 
 ids should be the page ids from the SOURCE portal.
 
