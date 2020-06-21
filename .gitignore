@@ -1,0 +1,4 @@
+content/src
+node_modules
+hubspot.config.yml
+.vscode
