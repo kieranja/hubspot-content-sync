@@ -11,8 +11,8 @@ const Mappings = require('./lib/mappings');
 const { getIdFromPath, filterKeys, getCwd } = require('./lib/utils');
 
 
-const SOURCE_PORTAL_HAPIKEY = '37287bd1-0c56-4d72-a5d2-e2dc14465a2c';
-const DEST_PORTAL_HAPIKEY = '7ea40c72-2315-4e0d-b3da-acf57614f9dc';
+const SOURCE_PORTAL_HAPIKEY = '';
+const DEST_PORTAL_HAPIKEY = '';
 
 
 const log = console.log;
