@@ -12,7 +12,8 @@ const SOURCE_PORTAL_HAPIKEY = '';
 const DEST_PORTAL_HAPIKEY = '';
 ```
 
-4. run one of the commands below (i recommend syncing one piece of content first)
+4. create content/src folder
+5. run one of the commands below (i recommend syncing one piece of content first)
 
 
 ### cowboy:
