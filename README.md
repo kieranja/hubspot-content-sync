@@ -16,11 +16,11 @@ const DEST_PORTAL_HAPIKEY = '';
 5. run one of the commands below (i recommend syncing one piece of content first)
 
 
-### cowboy:
+### all:
 ```
 node index.js sync --all
 ```
-### sane:
+### single
 ```
 node index.js sync --ids=123,124,125
 ```
